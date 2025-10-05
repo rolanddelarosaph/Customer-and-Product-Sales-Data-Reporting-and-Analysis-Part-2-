@@ -1,12 +1,12 @@
-# 🧠 Customer and Product Sales – Data Reporting and Analysis
+#  Customer and Product Sales – Data Reporting and Analysis
 
-## 📘 Project Overview
+##  Project Overview
 
 A sales analytics project that builds a retail data warehouse by integrating customer, product, and sales data. Using SQL Server, I designed structured tables, imported CSV datasets, and conducted analyses to uncover business insights related to revenue, customer behavior, and product performance.
 
 ---
 
-## 🏗️ Project Workflow
+##  Project Workflow
 
 ### Database Creation
 - Created a new database named `DataWarehouseAnalytics`.
@@ -27,7 +27,7 @@ A sales analytics project that builds a retail data warehouse by integrating cus
 
 ---
 
-## 📊 Key Insights Generated
+##  Key Insights Generated
 - Total and average sales metrics by month, year, and product category.
 - Customer distribution by country, age, gender, and loyalty segment.
 - Top-selling products and highest-spending customers.
@@ -36,14 +36,14 @@ A sales analytics project that builds a retail data warehouse by integrating cus
 
 ---
 
-## ⚙️ Tools & Technologies
+##  Tools & Technologies
 - **Azure Data Studio** (SQL environment)  
 - **Docker + Azure SQL Edge** (database engine)  
 - **CSV datasets** as data sources  
 
 ---
 
-## 📁 Dataset Files
+##  Dataset Files
 - `gold.dim_customers.csv`  
 - `gold.dim_products.csv`  
 - `gold.fact_sales.csv`  
