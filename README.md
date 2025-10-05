@@ -1,4 +1,4 @@
-#  Customer and Product Sales – Data Reporting and Analysis
+#  Customer and Product Sales – Data Reporting and Advamced Analysis
 
 ##  Project Overview
 
